@@ -4,7 +4,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for linux and a
 
 <br>
 <p align="center">
-<img src="https://github.com/Rajkumrdusad/IP-Tracer/blob/master/src/Screenshot_2018-08-06-15-32-17-1.png"/>
+<img src="https://github.com/HackProX/IP-Tracer/blob/master/src/IP-Tracer.png"/>
 </p>
 <br><br>
 
@@ -14,7 +14,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for linux and a
 
 * `apt install git -y`
 
-* `git clone https://github.com/Rajkumrdusad/IP-Tracer.git`
+* `git clone https://github.com/HackProX/IP-Tracer.git`
 
 * `cd IP-Tracer`
 
