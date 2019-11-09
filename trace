@@ -2,7 +2,7 @@
 # Tool Name :- IP-Tracer
 # Author :- LordReaper
 # Date :- 9/11/2019
-# Powered By :- HackPro Software's
+# Powered By :- H1ckPro Software's
 case "$1" in
   -m)
     php modules/.tracem.php
