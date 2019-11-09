@@ -1,7 +1,7 @@
 # Tool Name :- IP-Tracer
 # Author :- LordReaper
 # Date :- 9/11/2019
-# Powered By :- HackPro Software's
+# Powered By :- H1ckPro Software's
 
 if [ -e  /usr/lib/sudo ];then
   if [ ! -e /usr/bin/php ];then
