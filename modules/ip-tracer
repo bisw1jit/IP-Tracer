@@ -1,7 +1,7 @@
 # Tool Name :- IP-Tracer
 # Author :- LordReaper
 # Date :- 9/11/2019
-# Powered By :- HackPro Software's
+# Powered By :- H1ckPro Software's
 if [ -d /data/data/com.termux/files/usr/share ];then
   cd /data/data/com.termux/files/usr/share/IP-Tracer
   exec bash trace $@
